@@ -1,0 +1,45 @@
+{
+  "short_name": "EMiCal",
+  "name": "EMi Calculator",
+  "background_color": "#fff",
+  "description": "EMiCal is a simple Progressive Web App made entirely from front-end Javascript and is used to get EMI details of total payments to be done at specified interest for specific years for a Loan.",
+  "icons": [
+    {
+      "src": "/icons/lc-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/icons/lc-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/icons/lc-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/icons/lc-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/lc-196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "/icons/lc-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+    
+     
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#363D42"
+
+}
